@@ -1,4 +1,4 @@
-# To-do_LIst_Simple
+# To-do_List_Simple
 second
 <br>
 ![image](https://github.com/LakshyaAgrawal127001/To-do_LIst_Simple/assets/111519650/d53f7125-1a6c-4a94-80f9-6c54260ff233)
