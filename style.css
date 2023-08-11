@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(24, 26, 26);
+    color: white;
+    font-family:Impact, Haettenschweiler;
+}
+
+h1 {
+    display: flex;
+    position: absolute;
+    top: 3rem;
+    left: 50rem;
+    font-size: 5rem;
+    text-align: center;
+    text-decoration: underline;
+    color: white;
+
+}
+#write {
+    position: absolute;
+    top: 13rem;
+    left: 28rem;
+    width: 65rem;
+    height: 2.5rem;
+    border-radius: 2rem;
+    background: whitesmoke;
+    color: black;
+    font-size: 2.3rem;
+    text-align: center;
+}
+#write::placeholder{
+    color: grey;
+}
+
+#todo-list {
+    list-style: circle;
+    margin: 20rem;
+    margin-left: 20rem;
+    margin-left: 35rem;
+    font-size: 3rem;
+    color: darkslategray;
+}
+
+.done {
+    text-decoration: line-through;
+    color: lightblue;
+}
